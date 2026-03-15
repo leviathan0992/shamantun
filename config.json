@@ -1,0 +1,10 @@
+{
+  "mode": "socks5tls",
+  "upstream": "1.2.3.4:443",
+  "username": "",
+  "password": "",
+  "client_pem": "/etc/client.pem",
+  "client_key": "/etc/client.key",
+  "insecure_skip_verify": false,
+  "enable_udp": true
+}

@@ -1,0 +1,15 @@
+# Build artifacts
+/shamantun
+/shamantun-linux-amd64
+/shamantun.exe
+/cmd/shamantun/shamantun
+
+# Local noise
+.DS_Store
+*.log
+.gocache/
+
+config.example.json
+tags
+.claude/
+.omx/
